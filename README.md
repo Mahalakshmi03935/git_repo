@@ -63,7 +63,7 @@ Step 7: Add and commit the changes to the master branch.
 
 Step 8: Push the changes to the master branch. 
 
-Note : There will be a conflict in the pull request, how do we resolve it?? 
+
 
 
 
