@@ -10,7 +10,6 @@ Step 4: Open the file you created earlier and make some changes to it.
 
 Step 5: Check the file you modified is now marked as "modified" and unstaged.  
 
-Hint (git status) 
 
 Step 6: Stage the changes you made to the file and commit the changes to the repository. 
 
@@ -66,7 +65,7 @@ Step 8: Push the changes to the master branch.
 
 Note : There will be a conflict in the pull request, how do we resolve it?? 
 
-Hint: git rebase 
+
 
  
 
@@ -128,4 +127,4 @@ Step 7: Use the "git revert" command followed by the commit hash or reference to
 
 Step 8: Verify that the revert was successful by using the "git log" command again. 
 
-Note: Identify the difference between git log after git reset and git r evert. 
+
